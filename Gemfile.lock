@@ -1,0 +1,19 @@
+GIT
+  remote: git://github.com/boardiq/fake-s3.git
+  revision: f722a61ff547f31a9ef447d2e170cfeb3cb88765
+  specs:
+    fakes3 (0.1.7)
+      builder
+      thor
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    builder (3.2.2)
+    thor (0.19.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  fakes3!
